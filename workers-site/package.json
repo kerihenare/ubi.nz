@@ -1,0 +1,11 @@
+{
+  "name": "@ubi-nz/ubi.nz-worker",
+  "version": "1.0.0",
+  "description": "UBI.NZ Website",
+  "author": "Keri Henare <keri@henare.co.nz>",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "0.0.2"
+  }
+}

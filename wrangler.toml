@@ -1,0 +1,10 @@
+account_id = "6d998c93aecb3f4fc33141c526f3a31f"
+name = "ubi-nz"
+type = "webpack"
+route = ""
+workers_dev = true
+zone_id = ""
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"

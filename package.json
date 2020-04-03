@@ -1,0 +1,22 @@
+{
+  "name": "@ubi-nz/ubi.nz",
+  "version": "1.0.0",
+  "description": "UBI.NZ Website",
+  "author": "Keri Henare <keri@henare.co.nz>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/kerihenare/ubi.nz#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerihenare/ubi.nz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kerihenare/ubi.nz/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "preact": "^10.3.4",
+    "preact-render-to-string": "^5.1.4"
+  }
+}

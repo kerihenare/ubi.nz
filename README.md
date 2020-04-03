@@ -1,2 +1,1 @@
-# ubi.nz
-UBI.NZ Website
+# UBI.NZ Website
